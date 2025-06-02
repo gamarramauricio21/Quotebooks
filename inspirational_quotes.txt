@@ -13,3 +13,5 @@ If you can dream it, you can do it - Walt Disney
 All dreams come true if we have the courage to pursue them - Walt Disney
 
 This is our push test quote
+
+This is a Pull test quote
